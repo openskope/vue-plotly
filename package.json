@@ -30,10 +30,10 @@
     "vue-resize-directive": "^1.2.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.1.2",
-    "@vue/cli-plugin-eslint": "^4.1.2",
-    "@vue/cli-plugin-unit-jest": "^4.1.2",
-    "@vue/cli-service": "^4.1.2",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-plugin-unit-jest": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/test-utils": "1.0.0-beta.31",
     "@vuedoc/md": "^1.6.0",
@@ -50,7 +50,7 @@
     "ify-loader": "^1.1.0",
     "jest-canvas-mock": "^2.2.0",
     "less": "^3.10.3",
-    "less-loader": "^5.0.0",
+    "less-loader": "^11.1.0",
     "vue-cli-plugin-component": "^1.12.2",
     "vue-draggable-resizable": "^2.1.0",
     "vue-highlight.js": "^3.1.0",
